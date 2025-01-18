@@ -12,7 +12,7 @@ This guide will help you set up and run a Network3 node on your server. Follow t
 
 ## Registration
 
-1. Create an account at [Network3 Registration](https://account.network3.ai/register_page?rc=d21b34ed)
+1. Create an account at [Network3 Registration](https://account.network3.ai/register_page?rc=26400fa6)
 2. Log in to your account after registration
 
 ## Installation Methods
